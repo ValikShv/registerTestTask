@@ -6,14 +6,13 @@ import reportWebVitals from './reportWebVitals';
 import firebase from "firebase";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCjiuzOFXCKtVJzWA0E8zmo1bWX0yQxJEc",
-    authDomain: "registertesttask.firebaseapp.com",
-    databaseURL: "https://registertesttask-default-rtdb.firebaseio.com",
-    projectId: "registertesttask",
-    storageBucket: "registertesttask.appspot.com",
-    messagingSenderId: "601364190131",
-    appId: "1:601364190131:web:f181213c834325603cf1c6",
-    measurementId: "G-W8JGCXZ4DK"
+  apiKey: "AIzaSyCCc_lZvjksbS6RYv38PzGWu-wWvhZ-fGU",
+  authDomain: "registertask-fd88e.firebaseapp.com",
+  databaseURL: "https://registertesttask-default-rtdb.firebaseio.com/",
+  projectId: "registertask-fd88e",
+  storageBucket: "registertask-fd88e.appspot.com",
+  messagingSenderId: "967638171304",
+  appId: "1:967638171304:web:dced1cf743531ac9950c9d"
 };
 
 firebase.initializeApp(firebaseConfig);
